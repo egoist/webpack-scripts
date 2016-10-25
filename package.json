@@ -1,6 +1,6 @@
 {
   "name": "webpack-scripts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "webpack shorthands",
   "license": "MIT",
   "repository": "egoist/webpack-scripts",
