@@ -19,7 +19,7 @@ scripts.build(webpackConfig)
 // to run dev server for your app
 script.start(webpackConfig, {
   port: 4000,
-  hot: true
+  hot: false
 })
 ```
 
